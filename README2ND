@@ -1,13 +1,11 @@
 NAME
 
-       Char::KPS9566 - Source code filter for KPS9566 script (Imitation JPerl)
+       KPS9566 - Source code filter for KPS9566 script (Imitation JPerl)
 
 SYNOPSIS
     In your script:
 
-      use Char::KPS9566; # CPAN formal style
-         or
-      use KPS9566; # casual style
+      use KPS9566;
 
     At command prompt:
 
